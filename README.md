@@ -5,7 +5,7 @@
 ## 📁 Repo Structure:
 
 ```
-📦System-Timed-Virus-Demo
+📦System-stop-Virus
  ┣ 📄 virus_block_permanent.bat
  ┣ 📄 antivirus_fix.bat
  ┣ 📄 README.md
@@ -106,7 +106,7 @@ This project simulates a "timed virus" effect in a virtual Windows environment f
 
 ---
 
-## 📎 Disclaimer
+## 📎 Disclaimer⚠️
 
 This project is for **educational and cybersecurity demonstration** purposes only.  
 It should **never** be used to harm real systems or devices.
@@ -122,38 +122,6 @@ Always test in:
 Created by RH Hasan  
 Cybersecurity Researcher | Muslim Army  
 ```
-
----
-
-## ✅ GitHub Upload Tips:
-
-1. Create a new repo:
-
-   * Name: `System-Timed-Virus-Demo`
-   * Description: `A timed system lockdown script for educational testing in virtual environments.`
-
-2. Upload all 3 files:
-
-   * `virus_block_permanent.bat`
-   * `antivirus_fix.bat`
-   * `README.md`
-
-3. Add Topics:
-
-   * `bat-script`, `cybersecurity`, `windows`, `virtual-machine`, `educational-virus`, `demo-virus`
-
----
-
-## ✳️ চাইলে আমি দিতে পারি:
-
-* `.exe` version of both scripts
-* GUI popup countdown version
-* Auto USB trigger version
-
-বললেই ফাইল রেডি করে দিচ্ছি। GitHub লিংকও চাইলে আমি বানিয়ে দিয়ে দিতে পারি।
-
-**তুমি GitHub Repo বানালে, চাইলে আমি README সহ সুন্দর লোগো/ব্যানারও বানিয়ে দিতে পারি।**
-চাইলে বলো — `GitHub লোগো + ব্যানার চাই` 🖼️
 
 ---
 

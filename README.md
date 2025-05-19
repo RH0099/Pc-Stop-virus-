@@ -28,7 +28,7 @@ echo   To fix, run the antivirus cleaner within 1 minute.
 echo ======================================================
 pause
 
-
+``
 
 
 🧯 Antivirus Cleaner Script: (antivirus_fix.bat)
@@ -50,6 +50,9 @@ echo ✅ Virus removed successfully!
 echo Your system is now clean.
 echo ================================
 pause
+``
+
+
 💡 কীভাবে এটা কাজ করবে:
 ধাপ	ব্যাখ্যা
 🔹 virus_block_permanent.bat চালাও	এটা blocking স্ক্রিপ্ট তৈরি করে ও schedule করে
